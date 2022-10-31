@@ -1,0 +1,8 @@
+addr: :7000
+usernameDB: "root"
+passwordDB: ""
+hostDB: "127.0.0.1:3306"
+namaDB: "absenqrcode"
+signatureJWT: "kqFIFQnmp7FBGwFUK93L"
+headerCSRF: "wjjZOsdIaEmaNMCnP3ZE"
+tokenWebsocket: "q699VkRvQa4EoU0bmGln"
